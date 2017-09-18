@@ -5,9 +5,7 @@ import sys
 print "\n"
 print "#################################"
 print "\n"
-print "Das ist mein script für IP-Adresse Berechnung"
-print "Wer schreibt diese Scheiße?"
-print "Ich! , Danial Gordi :)"
+print "It's Tiny IP toolbox"
 print "\n"
 print "#################################"
 def subnet_calc():
@@ -16,7 +14,7 @@ def subnet_calc():
         
         # IP Bestatigen
         while True:
-            ip_address = raw_input("Geben Sie eine IP-Adresse: ")
+            ip_address = raw_input("Geben Sie eine IP-Addresse: ")
         # Eine slicer !
 
             
